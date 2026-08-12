@@ -1,9 +1,7 @@
-## Hi there 👋
+##                                                           👋 Hi, I'm Samarth Koti
 
-<!--
-**SamarthKoti/SamarthKoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a Computer Science Undergraduate passionate about Artificial Intelligence, Machine Learning, and Software Development.
+I enjoy transforming ideas into real-world solutions through innovative projects and hackathons, while continuously learning emerging technologies and strengthening my problem-solving and software development skills.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
