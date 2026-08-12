@@ -1,6 +1,7 @@
 ##                                                           👋 Hi, I'm Samarth Koti
 
 I'm a Computer Science Undergraduate passionate about Artificial Intelligence, Machine Learning, and Software Development.
+
 I enjoy transforming ideas into real-world solutions through innovative projects and hackathons, while continuously learning emerging technologies and strengthening my problem-solving and software development skills.
 
 - 🔭 I’m currently working on ...
