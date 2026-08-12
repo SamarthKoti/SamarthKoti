@@ -18,3 +18,9 @@ I enjoy transforming ideas into real-world solutions through innovative projects
  ## 📫 How to reach me:
  LinkedIn:www.linkedin.com/in/samarthkoti  
  Email:samarth7koti@gmail.com
+
+
+
+                                                                  Thanks for stopping by! ✨  
+
+
