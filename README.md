@@ -4,9 +4,9 @@ I'm a Computer Science Undergraduate passionate about innovative software Techno
 I enjoy transforming ideas into real-world solutions through innovative projects and hackathons, while continuously learning emerging technologies and strengthening my problem-solving and software development skills.
 
 ## 👨‍💻 About me 
-🎓 CSE Student at KLS Vishwanathrao Deshpande Institute of Technology.
-🚀 Strong Interests in: Artificial Intelligence, Machine learning and Software Development.
-🔭 I'm currently working on BlindAssist AI — Real-Time Object Detection for Visually Impaired Users.
+🎓 CSE Student at KLS Vishwanathrao Deshpande Institute of Technology.  
+🚀 Strong Interests in: Artificial Intelligence, Machine learning and Software Development.  
+🔭 I'm currently working on BlindAssist AI — Real-Time Object Detection for Visually Impaired Users.  
 🧠 Learn → 🛠️ Build → 🧪 Experiment → 💥 Fail → 📈 Improve → 🚀 Build Again
 
 
