@@ -16,5 +16,5 @@ I enjoy transforming ideas into real-world solutions through innovative projects
  ## 🤝 Looking for Internship & Placement Opportunities to Learn & Grow.
  
  ## 📫 How to reach me:
- LinkedIn:www.linkedin.com/in/samarthkoti
+ LinkedIn:www.linkedin.com/in/samarthkoti  
  Email:samarth7koti@gmail.com
