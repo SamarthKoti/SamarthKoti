@@ -21,6 +21,6 @@ I enjoy transforming ideas into real-world solutions through innovative projects
 
 
 
-                                                    Thanks for stopping by! ✨  
+                                                      Thanks for stopping by! ✨  
 
 
