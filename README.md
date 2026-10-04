@@ -14,19 +14,45 @@
 
 </div>
 
-About Me
+<!-- ========================= ABOUT ME ========================= -->
 
-Computer Science Undergraduate focused on Software Development and AI-Powered Applications.
+<p align="center">
+  <img src="./assets/about-heading.svg" width="100%" alt="About Me" />
+</p>
 
-I enjoy building practical software solutions, exploring modern technologies, and transforming ideas into real-world applications.
+<table>
+<tr>
 
-Currently focused on developing software that integrates AI capabilities to solve meaningful and practical problems.
+<td width="38%" align="center" valign="middle">
 
-I continuously strengthen my skills through hands-on projects, experimentation, problem-solving, and continuous learning.
+<img src="./assets/about-animation.gif"
+     width="320"
+     alt="Samarth Technology Animation" />
 
-Open to Internship and Placement Opportunities where I can contribute, learn, and grow as a Software Developer.
+</td>
 
-Learn → Build → Experiment → Fail → Improve → Build Again
+<td width="62%" valign="middle">
+
+### `> Hello, I'm Samarth_`
+
+**Computer Science Undergraduate** focused on **Software Development** and **AI-Powered Applications**.
+
+I build practical software, explore modern technologies, and transform ideas into **real-world solutions**.
+
+Currently focused on integrating **AI capabilities** into meaningful applications while continuously strengthening my development and problem-solving skills.
+
+**Open to Internship & Placement Opportunities.**
+
+`Learn → Build → Experiment → Fail → Improve → Build Again`
+
+</td>
+
+</tr>
+</table>
+
+<!-- ========================================================== -->
+
+
 
 Technologies & Tools
 
