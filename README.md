@@ -23,44 +23,68 @@
 <br>
 
 <img
-  align="left"
-  width="350"
   src="./assets/about-animation.gif"
+  align="left"
+  width="390"
   alt="Samarth Animation"
 />
 
-<div align="left">
+<h4>
+  <samp>
+    ✦ Computer Science Undergraduate focused on
+    <strong>Software Development and AI-Powered Applications.</strong>
+  </samp>
+</h4>
 
-<samp>
+<br>
 
-<strong>Computer Science Undergraduate</strong> focused on  
-<strong>Software Development and AI-Powered Applications.</strong>
+<h4>
+  <samp>
+    ✦ I enjoy building practical software solutions, exploring modern
+    technologies, and transforming ideas into real-world applications.
+  </samp>
+</h4>
 
-<br><br>
+<br>
 
-I enjoy building practical software solutions, exploring modern  
-technologies, and transforming ideas into real-world applications.
-
-<br><br>
-
-Currently focused on developing software that integrates  
-<strong>AI capabilities</strong> to solve meaningful and practical problems.
-
-<br><br>
-
-I continuously strengthen my skills through hands-on projects,  
-experimentation, problem-solving, and continuous learning.
-
-<br><br>
-
-Open to <strong>Internship and Placement Opportunities</strong> where I can  
-contribute, learn, and grow as a Software Developer.
-
-</samp>
-
-</div>
+<h4>
+  <samp>
+    ✦ Currently focused on developing software that integrates
+    <strong>AI capabilities</strong> to solve meaningful and practical problems.
+  </samp>
+</h4>
 
 <br clear="left">
+
+<br>
+
+<h4>
+  <samp>
+    ✦ I continuously strengthen my skills through hands-on projects,
+    experimentation, problem-solving, and continuous learning.
+  </samp>
+</h4>
+
+<br>
+
+<h4>
+  <samp>
+    ✦ Open to <strong>Internship and Placement Opportunities</strong>
+    where I can contribute, learn, and grow as a Software Developer.
+  </samp>
+</h4>
+
+<br>
+
+<p align="center">
+  <samp>
+    <strong>
+      Learn → Build → Experiment → Fail → Improve → Build Again
+    </strong>
+  </samp>
+</p>
+
+<br>
 
 <!-- ==================================================== -->
 
