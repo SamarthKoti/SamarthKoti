@@ -23,8 +23,7 @@
 <img
   src="./assets/about-animation.gif"
   align="left"
-  width="370"
-  hspace="18"
+  width="330"
   alt="Samarth Animation"
 />
 
@@ -37,15 +36,17 @@
 
 <h3>
   <samp>
-    ✦ I enjoy building practical software solutions, exploring modern
-    technologies, and transforming ideas into real-world applications.
+    ✦ I enjoy building practical software solutions,
+    exploring modern technologies, and transforming ideas
+    into real-world applications.
   </samp>
 </h3>
 
 <h3>
   <samp>
-    ✦ Currently focused on developing software that integrates
-    <strong>AI capabilities</strong> to solve meaningful and practical problems.
+    ✦ Currently focused on developing software that
+    integrates <strong>AI capabilities</strong> to solve
+    meaningful and practical problems.
   </samp>
 </h3>
 
@@ -71,8 +72,7 @@
   </samp>
 </h3>
 
-<!-- ==================================================== -->
-Technologies & Tools
+<!-- ==================================================== -->Technologies & Tools
 
 <p align="center">
 
