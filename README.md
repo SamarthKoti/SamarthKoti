@@ -80,5 +80,5 @@
 <br>
 
 <p align="center">
-  <img src="./assets/thanks-bannerv1.png.jpeg" width="100%" alt="Thanks for stopping by" />
+  <img src="./assets/thanks-bannerv2.png.jpeg" width="100%" alt="Thanks for stopping by" />
 </p>
