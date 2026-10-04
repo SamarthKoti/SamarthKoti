@@ -27,11 +27,11 @@
     </td>
     <td width="62%" valign="middle">
       <p>
-        <strong>✦ Computer Science Undergraduate focused on
+        <strong> Computer Science Undergraduate focused on
         Software Development and AI-Powered Applications.</strong>
       </p>
       <p>
-        <strong>✦ I enjoy building practical software solutions,
+        <strong> I enjoy building practical software solutions,
         exploring modern technologies, and transforming ideas
         into real-world applications.</strong>
       </p>
