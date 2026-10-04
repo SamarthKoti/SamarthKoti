@@ -17,7 +17,7 @@
 <!-- ================= ABOUT ME ================= -->
 
 <p align="center">
-  <img src="./assets/about-heading.svg" width="32%" alt="About Me" />
+  <img src="./assets/about-heading.svg" width="72%" alt="About Me" />
 </p>
 
 <br>
