@@ -29,14 +29,14 @@
 
 <h3>
   <samp>
-    ✦ Computer Science Undergraduate focused on
+     Computer Science Undergraduate focused on
     <strong>Software Development and AI-Powered Applications.</strong>
   </samp>
 </h3>
 
 <h3>
   <samp>
-    ✦ I enjoy building practical software solutions, exploring modern
+     I enjoy building practical software solutions, exploring modern
     technologies, and transforming ideas into real-world applications.
   </samp>
 </h3>
