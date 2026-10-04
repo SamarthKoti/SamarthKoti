@@ -36,23 +36,21 @@
         into real-world applications.</strong>
       </p>
       <p>
-        <strong>✦ Currently focused on developing software that
+        <strong> Currently focused on developing software that
         integrates AI capabilities to solve meaningful and
         practical problems.</strong>
       </p>
     </td>
   </tr>
-</table>
-
   <tr>
     <td colspan="2">
       <p>
-        <strong>✦ I continuously strengthen my skills through
+        <strong> I continuously strengthen my skills through
         hands-on projects, experimentation, problem-solving,
         and continuous learning.</strong>
       </p>
       <p>
-        <strong>✦ Open to Internship and Placement Opportunities
+        <strong> Open to Internship and Placement Opportunities
         where I can contribute, learn, and grow as a
         Software Developer.</strong>
       </p>
