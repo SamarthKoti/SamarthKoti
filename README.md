@@ -14,24 +14,28 @@
 
 </div>
 
-<!-- ========================= ABOUT ME ========================= -->
+<!-- ================= ABOUT ME ================= -->
 
 <p align="center">
-  <img src="./assets/about-heading.svg" width="100%" alt="About Me" />
+  <img src="./assets/about-heading.svg" width="32%" alt="About Me" />
 </p>
+
+<br>
 
 <table>
 <tr>
 
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="./assets/about-animation.gif"
-     width="320"
-     alt="Samarth Technology Animation" />
+<img
+  src="./assets/about-animation.gif"
+  width="330"
+  alt="Technology Animation"
+/>
 
 </td>
 
-<td width="62%" valign="middle">
+<td width="60%" valign="middle">
 
 ### `> Hello, I'm Samarth_`
 
@@ -50,8 +54,7 @@ Currently focused on integrating **AI capabilities** into meaningful application
 </tr>
 </table>
 
-<!-- ========================================================== -->
-
+<!-- ============================================ -->
 
 
 Technologies & Tools
