@@ -23,27 +23,28 @@
 <img
   src="./assets/about-animation.gif"
   align="left"
-  width="390"
+  width="370"
+  hspace="18"
   alt="Samarth Animation"
 />
 
 <h3>
   <samp>
-        Computer Science Undergraduate focused on
+    ✦ Computer Science Undergraduate focused on
     <strong>Software Development and AI-Powered Applications.</strong>
   </samp>
 </h3>
 
 <h3>
   <samp>
-        I enjoy building practical software solutions, exploring modern
+    ✦ I enjoy building practical software solutions, exploring modern
     technologies, and transforming ideas into real-world applications.
   </samp>
 </h3>
 
 <h3>
   <samp>
-        Currently focused on developing software that integrates
+    ✦ Currently focused on developing software that integrates
     <strong>AI capabilities</strong> to solve meaningful and practical problems.
   </samp>
 </h3>
@@ -52,28 +53,25 @@
 
 <h3>
   <samp>
-        I continuously strengthen my skills through hands-on projects,
+    ✦ I continuously strengthen my skills through hands-on projects,
     experimentation, problem-solving, and continuous learning.
   </samp>
 </h3>
 
 <h3>
   <samp>
-       Open to <strong>Internship and Placement Opportunities</strong>
+    ✦ Open to <strong>Internship and Placement Opportunities</strong>
     where I can contribute, learn, and grow as a Software Developer.
   </samp>
 </h3>
 
-<p align="center">
+<h3 align="center">
   <samp>
-    <strong>
-      Learn → Build → Experiment → Fail → Improve → Build Again
-    </strong>
+    Learn → Build → Experiment → Fail → Improve → Build Again
   </samp>
-</p>
+</h3>
 
 <!-- ==================================================== -->
-
 Technologies & Tools
 
 <p align="center">
