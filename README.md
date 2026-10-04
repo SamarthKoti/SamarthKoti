@@ -23,48 +23,38 @@
 <img
   src="./assets/about-animation.gif"
   align="left"
-  width="300"
-  hspace="22"
+  width="350"
+  hspace="18"
   alt="Samarth Animation"
 />
 
 <h3>
-  <samp>
-    &nbsp;&nbsp;✦ Computer Science Undergraduate focused on<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Development and AI-Powered Applications.
-  </samp>
-</h3>
+<samp>
 
-<h3>
-  <samp>
-    &nbsp;&nbsp;✦ I enjoy building practical software solutions,<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exploring modern technologies, and transforming<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ideas into real-world applications.
-  </samp>
-</h3>
+✦ Computer Science Undergraduate focused on  
+Software Development and AI-Powered Applications.
 
-<h3>
-  <samp>
-    &nbsp;&nbsp;✦ Currently focused on developing software that<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;integrates AI capabilities to solve meaningful<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and practical problems.
-  </samp>
-</h3>
+<br>
+
+✦ I enjoy building practical software solutions, exploring modern  
+technologies, and transforming ideas into real-world applications.
+
+<br>
+
+✦ Currently focused on developing software that integrates  
+AI capabilities to solve meaningful and practical problems.
 
 <br clear="left">
 
-<h3>
-  <samp>
-    ✦ I continuously strengthen my skills through hands-on projects,
-    experimentation, problem-solving, and continuous learning.
-  </samp>
-</h3>
+✦ I continuously strengthen my skills through hands-on projects, experimentation,  
+problem-solving, and continuous learning.
 
-<h3>
-  <samp>
-    ✦ Open to Internship and Placement Opportunities where I can
-    contribute, learn, and grow as a Software Developer.
-  </samp>
+<br>
+
+✦ Open to Internship and Placement Opportunities where I can contribute,  
+learn, and grow as a Software Developer.
+
+</samp>
 </h3>
 
 <h3 align="center">
@@ -73,6 +63,7 @@
   </samp>
 </h3>
 
+<!-- ==================================================== -->
 <!-- ==================================================== --><!-- ==================================================== --><!-- ==================================================== -->Technologies & Tools
 
 <p align="center">
