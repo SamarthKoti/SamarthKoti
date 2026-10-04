@@ -14,57 +14,52 @@
 
 </div>
 
-<!-- ===================== ABOUT ME ===================== -->
+<h2 align="center">&lt;/&gt; ABOUT ME</h2>
 
-<h2 align="center">
-  <samp>&lt;/&gt; ABOUT ME</samp>
-</h2>
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img
+        src="YOUR_ANIMATION_PATH"
+        alt="Animated illustration"
+        width="340"
+      />
+    </td>
+    <td width="62%" valign="middle">
+      <p>
+        <strong>✦ Computer Science Undergraduate focused on
+        Software Development and AI-Powered Applications.</strong>
+      </p>
+      <p>
+        <strong>✦ I enjoy building practical software solutions,
+        exploring modern technologies, and transforming ideas
+        into real-world applications.</strong>
+      </p>
+      <p>
+        <strong>✦ Currently focused on developing software that
+        integrates AI capabilities to solve meaningful and
+        practical problems.</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<img
-  src="./assets/about-animation.gif"
-  align="left"
-  width="350"
-  hspace="18"
-  alt="Samarth Animation"
-/>
+<p>
+  <strong>✦ I continuously strengthen my skills through hands-on
+  projects, experimentation, problem-solving, and continuous
+  learning.</strong>
+</p>
 
-<h3>
-<samp>
+<p>
+  <strong>✦ Open to Internship and Placement Opportunities where
+  I can contribute, learn, and grow as a Software Developer.</strong>
+</p>
 
-  ✦ Computer Science Undergraduate focused on  
-  Software Development and AI-Powered Applications.
+<p align="center">
+  <strong>Learn → Build → Experiment → Fail → Improve → Build Again</strong>
+</p>
 
-<br>
-
-  ✦ I enjoy building practical software solutions, exploring modern  
-  technologies, and transforming ideas into real-world applications.
-
-<br>
-
-  ✦ Currently focused on developing software that integrates  
-  AI capabilities to solve meaningful and practical problems.
-
-<br clear="left">
-
-  ✦ I continuously strengthen my skills through hands-on projects, experimentation,  
-  problem-solving, and continuous learning.
-
-<br>
-
-  ✦ Open to Internship and Placement Opportunities where I can contribute,  
-  learn, and grow as a Software Developer.
-
-</samp>
-</h3>
-
-<h3 align="center">
-  <samp>
-    Learn → Build → Experiment → Fail → Improve → Build Again
-  </samp>
-</h3>
-
-<!-- ==================================================== -->
-<!-- ==================================================== --><!-- ==================================================== --><!-- ==================================================== -->Technologies & Tools
+==================================================== -->Technologies & Tools
 
 <p align="center">
 
