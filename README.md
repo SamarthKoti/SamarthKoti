@@ -31,28 +31,28 @@
 <h3>
 <samp>
 
-✦ Computer Science Undergraduate focused on  
-Software Development and AI-Powered Applications.
+  ✦ Computer Science Undergraduate focused on  
+  Software Development and AI-Powered Applications.
 
 <br>
 
-✦ I enjoy building practical software solutions, exploring modern  
-technologies, and transforming ideas into real-world applications.
+  ✦ I enjoy building practical software solutions, exploring modern  
+  technologies, and transforming ideas into real-world applications.
 
 <br>
 
-✦ Currently focused on developing software that integrates  
-AI capabilities to solve meaningful and practical problems.
+  ✦ Currently focused on developing software that integrates  
+  AI capabilities to solve meaningful and practical problems.
 
 <br clear="left">
 
-✦ I continuously strengthen my skills through hands-on projects, experimentation,  
-problem-solving, and continuous learning.
+  ✦ I continuously strengthen my skills through hands-on projects, experimentation,  
+  problem-solving, and continuous learning.
 
 <br>
 
-✦ Open to Internship and Placement Opportunities where I can contribute,  
-learn, and grow as a Software Developer.
+  ✦ Open to Internship and Placement Opportunities where I can contribute,  
+  learn, and grow as a Software Developer.
 
 </samp>
 </h3>
