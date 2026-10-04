@@ -44,21 +44,26 @@
   </tr>
 </table>
 
-<p>
-  <strong>✦ I continuously strengthen my skills through hands-on
-  projects, experimentation, problem-solving, and continuous
-  learning.</strong>
-</p>
-
-<p>
-  <strong>✦ Open to Internship and Placement Opportunities where
-  I can contribute, learn, and grow as a Software Developer.</strong>
-</p>
-
-<p align="center">
-  <strong>Learn → Build → Experiment → Fail → Improve → Build Again</strong>
-</p>
-
+  <tr>
+    <td colspan="2">
+      <p>
+        <strong>✦ I continuously strengthen my skills through
+        hands-on projects, experimentation, problem-solving,
+        and continuous learning.</strong>
+      </p>
+      <p>
+        <strong>✦ Open to Internship and Placement Opportunities
+        where I can contribute, learn, and grow as a
+        Software Developer.</strong>
+      </p>
+      <p align="center">
+        <strong>
+          Learn → Build → Experiment → Fail → Improve → Build Again
+        </strong>
+      </p>
+    </td>
+  </tr>
+</table>
 ==================================================== -->Technologies & Tools
 
 <p align="center">
