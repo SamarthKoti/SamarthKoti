@@ -70,8 +70,23 @@
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=58A6FF" alt="C" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python" />
+
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Machine Learning" />
+
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Web_Development-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Web Development" />
+
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=58A6FF" alt="Flask" />
+
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logoColor=58A6FF" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSocket_API-0D1117?style=for-the-badge&logoColor=58A6FF" alt="WebSocket API" />
+
+  <img src="https://img.shields.io/badge/Data_Analytics-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=58A6FF" alt="Plotly" />
+
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" />
 
