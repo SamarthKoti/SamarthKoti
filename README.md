@@ -20,8 +20,6 @@
   <samp>&lt;/&gt; ABOUT ME</samp>
 </h2>
 
-<br>
-
 <img
   src="./assets/about-animation.gif"
   align="left"
@@ -29,52 +27,42 @@
   alt="Samarth Animation"
 />
 
-<h4>
+<h3>
   <samp>
     ✦ Computer Science Undergraduate focused on
     <strong>Software Development and AI-Powered Applications.</strong>
   </samp>
-</h4>
+</h3>
 
-<br>
-
-<h4>
+<h3>
   <samp>
     ✦ I enjoy building practical software solutions, exploring modern
     technologies, and transforming ideas into real-world applications.
   </samp>
-</h4>
+</h3>
 
-<br>
-
-<h4>
+<h3>
   <samp>
     ✦ Currently focused on developing software that integrates
     <strong>AI capabilities</strong> to solve meaningful and practical problems.
   </samp>
-</h4>
+</h3>
 
 <br clear="left">
 
-<br>
-
-<h4>
+<h3>
   <samp>
     ✦ I continuously strengthen my skills through hands-on projects,
     experimentation, problem-solving, and continuous learning.
   </samp>
-</h4>
+</h3>
 
-<br>
-
-<h4>
+<h3>
   <samp>
     ✦ Open to <strong>Internship and Placement Opportunities</strong>
     where I can contribute, learn, and grow as a Software Developer.
   </samp>
-</h4>
-
-<br>
+</h3>
 
 <p align="center">
   <samp>
@@ -83,8 +71,6 @@
     </strong>
   </samp>
 </p>
-
-<br>
 
 <!-- ==================================================== -->
 
