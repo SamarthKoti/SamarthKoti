@@ -62,7 +62,8 @@
     </td>
   </tr>
 </table>
-==================================================== -->Technologies & Tools
+
+<h2 align="center">&lt;/&gt; TECHNOLOGIES AND TOOLS</h2>
 
 <p align="center">
 
