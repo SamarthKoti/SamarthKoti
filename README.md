@@ -14,48 +14,55 @@
 
 </div>
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ===================== ABOUT ME ===================== -->
 
-<p align="center">
-  <img src="./assets/about-heading.svg" width="50%" alt="About Me" />
-</p>
+<h2 align="center">
+  <samp>&lt;/&gt; ABOUT ME</samp>
+</h2>
 
 <br>
 
-<table>
-<tr>
-
-<td width="40%" align="center" valign="middle">
-
 <img
+  align="left"
+  width="350"
   src="./assets/about-animation.gif"
-  width="330"
-  alt="Technology Animation"
+  alt="Samarth Animation"
 />
 
-</td>
+<div align="left">
 
-<td width="60%" valign="middle">
+<samp>
 
-### `> Hello, I'm Samarth_`
+<strong>Computer Science Undergraduate</strong> focused on  
+<strong>Software Development and AI-Powered Applications.</strong>
 
-**Computer Science Undergraduate** focused on **Software Development** and **AI-Powered Applications**.
+<br><br>
 
-I build practical software, explore modern technologies, and transform ideas into **real-world solutions**.
+I enjoy building practical software solutions, exploring modern  
+technologies, and transforming ideas into real-world applications.
 
-Currently focused on integrating **AI capabilities** into meaningful applications while continuously strengthening my development and problem-solving skills.
+<br><br>
 
-**Open to Internship & Placement Opportunities.**
+Currently focused on developing software that integrates  
+<strong>AI capabilities</strong> to solve meaningful and practical problems.
 
-`Learn → Build → Experiment → Fail → Improve → Build Again`
+<br><br>
 
-</td>
+I continuously strengthen my skills through hands-on projects,  
+experimentation, problem-solving, and continuous learning.
 
-</tr>
-</table>
+<br><br>
 
-<!-- ============================================ -->
+Open to <strong>Internship and Placement Opportunities</strong> where I can  
+contribute, learn, and grow as a Software Developer.
 
+</samp>
+
+</div>
+
+<br clear="left">
+
+<!-- ==================================================== -->
 
 Technologies & Tools
 
