@@ -20,7 +20,7 @@
   <tr>
     <td width="38%" align="center" valign="middle">
       <img
-        src="YOUR_ANIMATION_PATH"
+        src="./assets/about-animation.gif"
         alt="Animated illustration"
         width="340"
       />
